@@ -18,7 +18,7 @@ class AboutAction extends globalAction {
 	protected static final ImageIcon icone;
 	protected static final String nom = "apropos";
     protected static final String cheminIcone = "vue/ressource/about.png";
-	protected final String message = "Grenouilloland - Version 1.0\r\nAuteurs: Alexis LE GOADEC, Elodie VAUDORE\r\n"+
+	protected final String message = "Grenouilloland - Version 1.0\r\nAuteurs: Alexis LE GOADEC\r\n"+
 									 "Projet de CPOO - Licence Informatique,\r\nUniversité de Caen, 2012-2013.";
 	
     static {
